@@ -1,4 +1,47 @@
-header {
-  border: 1px solid black
-  color: black;
+body {
+  background-color: black;
+}
+h1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 80px;
+  width: 100%;
+  padding-top: 160px;
+  padding-bottom: 160px;
+  padding: 160px 40px;
+  margin: 65 auto 70px auto;
+  border: 1px solid pink;
+  color: pink;
+}
+nav {
+  display: inline-flex;
+  font-size: 60px;
+  justify-content: center;
+  width: 100%
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  border: 1px solid pink;
+  padding-top: 12px;
+  padding-bottom: 800px;
+  margin-top: 80px;
+  justify-content: center;
+}
+span {
+  color: pink;
+  padding: 0 160px;
+  font-size: 60px;
+}
+
+.content2 {
+  border: 1px dashed pink;
+}
+.content1 {
+  border: 1px dashed pink;
+}
+.content3 {
+  border: 1px dashed pink;
 }
