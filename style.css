@@ -1,12 +1,13 @@
 body {
   background-color: black;
+  margin: 0 360px auto;
 }
 h1 {
   align-items: center;
   justify-content: center;
   display: flex;
   font-size: 80px;
-  width: 100%;
+  
   padding-top: 160px;
   padding-bottom: 160px;
   padding: 160px 40px;
